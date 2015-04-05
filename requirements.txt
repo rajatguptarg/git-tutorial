@@ -1,0 +1,2 @@
+# Install dev requirements
+-r dev_requirements.txt
